@@ -1,0 +1,5085 @@
+﻿<Countries>
+<Country>
+<uri>info:lc/vocabulary/countries/af</uri>
+<Name authorized="yes">Afghanistan</Name>
+<Code>af</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/alu</uri>
+<Name authorized="yes">Alabama</Name>
+<Code>alu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aku</uri>
+<Name authorized="yes">Alaska</Name>
+<Code>aku</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aa</uri>
+<Name authorized="yes">Albania</Name>
+<Code>aa</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/abc</uri>
+<Name authorized="yes">Alberta</Name>
+<Code>abc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ae</uri>
+<Name authorized="yes">Algeria</Name>
+<Code>ae</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/as</uri>
+<Name authorized="yes">American Samoa</Name>
+<Code>as</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Eastern Samoa</Name>
+</uf>
+<uf>
+<Name>Samoa, American</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/an</uri>
+<Name authorized="yes">Andorra</Name>
+<Code>an</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ao</uri>
+<Name authorized="yes">Angola</Name>
+<Code>ao</Code>
+<region>Africa</region>
+<uf>
+<Name>Cabinda</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/am</uri>
+<Name authorized="yes">Anguilla</Name>
+<Code>am</Code>
+<region>West Indies</region>
+<Code status="obsolete" date="198803">ai</Code>
+<note>
+<Name>Saint Kitts-Nevis-Anguilla</Name>
+<Code status="obsolete">xi</Code>
+<date type="before">19850101</date>
+</note>
+<uf>
+<Name>Saint Kitts-Nevis-Anguilla</Name>
+<note>
+<Name>Saint Kitts-Nevis-Anguilla</Name>
+<Code status="obsolete">xi</Code>
+<date type="before">198501</date>
+</note>
+</uf>
+<uf>
+<Name>Sombrero Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ay</uri>
+<Name authorized="yes">Antarctica</Name>
+<Code>ay</Code>
+<region>Other</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aq</uri>
+<Name authorized="yes">Antigua and Barbuda</Name>
+<Code>aq</Code>
+<region>West Indies</region>
+<uf>
+<Name>Antigua</Name>
+</uf>
+<uf>
+<Name>Barbuda</Name>
+</uf>
+<uf>
+<Name>Redonda</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ag</uri>
+<Name authorized="yes">Argentina</Name>
+<Code>ag</Code>
+<region>South America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/azu</uri>
+<Name authorized="yes">Arizona</Name>
+<Code>azu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aru</uri>
+<Name authorized="yes">Arkansas</Name>
+<Code>aru</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ai</uri>
+<Name authorized="yes">Armenia (Republic)</Name>
+<Code>ai</Code>
+<region>Asia</region>
+<note>
+<Name>Armenian S.S.R.</Name>
+<Code status="obsolete">air</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Armenian S.S.R.</Name>
+<note>
+<Name>Armenian S.S.R.</Name>
+<Code status="obsolete">air</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aw</uri>
+<Name authorized="yes">Aruba</Name>
+<Code>aw</Code>
+<region>West Indies</region>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">198803</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/at</uri>
+<Name authorized="yes">Australia</Name>
+<Code>at</Code>
+<region>Australasia</region>
+<uf>
+<Name>Ashmore and Cartier Islands</Name>
+<note>
+<Name>Ashmore and Cartier Islands</Name>
+<Code status="obsolete">ac</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Macquarie Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aca</uri>
+<Name authorized="yes">Australian Capital Territory</Name>
+<Code>aca</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/au</uri>
+<Name authorized="yes">Austria</Name>
+<Code>au</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/aj</uri>
+<Name authorized="yes">Azerbaijan</Name>
+<Code>aj</Code>
+<region>Asia</region>
+<note>
+<Name>Azerbaijan S.S.R.</Name>
+<Code status="obsolete">ajr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Azerbaijan S.S.R.</Name>
+<note>
+<Name>Azerbaijan S.S.R. </Name>
+<Code status="obsolete">ajr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bf</uri>
+<Name authorized="yes">Bahamas</Name>
+<Code>bf</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ba</uri>
+<Name authorized="yes">Bahrain</Name>
+<Code>ba</Code>
+<region>Asia</region>
+<uf>
+<Name>Bahrein</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bg</uri>
+<Name authorized="yes">Bangladesh</Name>
+<Code>bg</Code>
+<region>Asia</region>
+<uf>
+<Name>East Pakistan</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bb</uri>
+<Name authorized="yes">Barbados</Name>
+<Code>bb</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bw</uri>
+<Name authorized="yes">Belarus</Name>
+<Code>bw</Code>
+<region>Europe</region>
+<note>
+<Name>Byelorussian S.S.R</Name>
+<Code status="obsolete">bwr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Byelarus</Name>
+</uf>
+<uf>
+<Name>Belorussian S.S.R.</Name>
+</uf>
+<uf>
+<Name>Byeolorussian S.S.R.</Name>
+<note>
+<Name>Byelorussian S.S.R.</Name>
+<Code status="obsolete">bwr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/be</uri>
+<Name authorized="yes">Belgium</Name>
+<Code>be</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bh</uri>
+<Name authorized="yes">Belize</Name>
+<Code>bh</Code>
+<region>Central America</region>
+<uf>
+<Name>British Honduras</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/dm</uri>
+<Name authorized="yes">Benin</Name>
+<Code>dm</Code>
+<region>Africa</region>
+<uf>
+<Name>Dahomey</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bm</uri>
+<Name authorized="yes">Bermuda Islands</Name>
+<Code>bm</Code>
+<region>Atlantic Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bt</uri>
+<Name authorized="yes">Bhutan</Name>
+<Code>bt</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bo</uri>
+<Name authorized="yes">Bolivia</Name>
+<Code>bo</Code>
+<region>South America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bn</uri>
+<Name authorized="yes">Bosnia and Herzegovina</Name>
+<Code>bn</Code>
+<region>Europe</region>
+<note>
+<Name>Yugoslavia</Name>
+<Code status="obsolete">yu</Code>
+<date type="before">199210</date>
+</note>
+<uf>
+<Name>Bosnia and Hercegovina</Name>
+</uf>
+<uf>
+<Name>Hercegovina</Name>
+</uf>
+<uf>
+<Name>Herzegovina</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bs</uri>
+<Name authorized="yes">Botswana</Name>
+<Code>bs</Code>
+<region>Africa</region>
+<uf>
+<Name>Bechuanaland</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bv</uri>
+<Name authorized="yes">Bouvet Island</Name>
+<Code>bv</Code>
+<region>Atlantic Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bl</uri>
+<Name authorized="yes">Brazil</Name>
+<Code>bl</Code>
+<region>South America</region>
+<uf>
+<Name>Fernando de Noronha</Name>
+</uf>
+<uf>
+<Name>Ilha da Trindade</Name>
+</uf>
+<uf>
+<Name>Ilhas Martim Vaz</Name>
+</uf>
+<uf>
+<Name>Martim Vaz, Ilhas</Name>
+</uf>
+<uf>
+<Name>Penedos de São Pedro e São Paulo</Name>
+</uf>
+<uf>
+<Name>Rocas</Name>
+</uf>
+<uf>
+<Name>Trindade, Ilha da</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bcc</uri>
+<Name authorized="yes">British Columbia</Name>
+<Code>bcc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bi</uri>
+<Name authorized="yes">British Indian Ocean Territory</Name>
+<Code>bi</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Chagos Archipelago</Name>
+</uf>
+<uf>
+<Name>Diego Garcia Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vb</uri>
+<Name authorized="yes">British Virgin Islands</Name>
+<Code>vb</Code>
+<region>West Indies</region>
+<uf>
+<Name>Anegada</Name>
+</uf>
+<uf>
+<Name>Colony of the Virgin Islands</Name>
+</uf>
+<uf>
+<Name>Jost Van Dyke</Name>
+</uf>
+<uf>
+<Name>Tortola</Name>
+</uf>
+<uf>
+<Name>Virgin Gorda</Name>
+</uf>
+<uf>
+<Name>Virgin Islands (British)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bx</uri>
+<Name authorized="yes">Brunei</Name>
+<Code>bx</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bu</uri>
+<Name authorized="yes">Bulgaria</Name>
+<Code>bu</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/uv</uri>
+<Name authorized="yes">Burkina Faso</Name>
+<Code>uv</Code>
+<region>Africa</region>
+<uf>
+<Name>Upper Volta</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/br</uri>
+<Name authorized="yes">Burma</Name>
+<Code>br</Code>
+<region>Asia</region>
+<uf>
+<Name>Myanmar</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bd</uri>
+<Name authorized="yes">Burundi</Name>
+<Code>bd</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cau</uri>
+<Name authorized="yes">California</Name>
+<Code>cau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cb</uri>
+<Name authorized="yes">Cambodia</Name>
+<Code>cb</Code>
+<region>Asia</region>
+<uf>
+<Name>Democratic Kampuchea</Name>
+</uf>
+<uf>
+<Name>Kampuchea</Name>
+</uf>
+<uf>
+<Name>Khmer Republic</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cm</uri>
+<Name authorized="yes">Cameroon</Name>
+<Code>cm</Code>
+<region>Africa</region>
+<uf>
+<Name>British Cameroons</Name>
+</uf>
+<uf>
+<Name>East Cameroon</Name>
+</uf>
+<uf>
+<Name>French Cameroons</Name>
+</uf>
+<uf>
+<Name>German Cameroons</Name>
+</uf>
+<uf>
+<Name>Southern Cameroons</Name>
+</uf>
+<uf>
+<Name>West Cameroon</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xxc</uri>
+<Name authorized="yes">Canada</Name>
+<Code>xxc</Code>
+<region>North America</region>
+<note>
+<Name>Canada</Name>
+<Code status="obsolete">cn</Code>
+<date type="before">198803</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cv</uri>
+<Name authorized="yes">Cabo Verde</Name>
+<Code>cv</Code>
+<region>Atlantic Ocean</region>
+<uf>
+<Name>Boa Vista</Name>
+</uf>
+<uf>
+<Name>Brava</Name>
+</uf>
+<uf>
+<Name>Cape Verde</Name>
+</uf>
+<uf>
+<Name>Fogo</Name>
+</uf>
+<uf>
+<Name>Maio</Name>
+</uf>
+<uf>
+<Name>Sal</Name>
+</uf>
+<uf>
+<Name>Santo Antao</Name>
+</uf>
+<uf>
+<Name>São Nicolau</Name>
+</uf>
+<uf>
+<Name>São Tiago</Name>
+</uf>
+<uf>
+<Name>São Vicente</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ca</uri>
+<Name authorized="yes">Caribbean Netherlands</Name>
+<Code>ca</Code>
+<region>West Indies</region>
+<note>
+...
+</note>
+<uf>
+...
+</uf>
+<uf>
+<Name>Bonaire</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+<uf>
+<Name>Bonaire (Netherlands Antilles)</Name>
+</uf>
+<uf>
+<Name>Bonaire, Saint Eustatius, and Saba</Name>
+</uf>
+<uf>
+<Name>Dutch Caribbean</Name>
+</uf>
+<uf>
+<Name>Netherlands Antilles</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+<uf>
+<Name>Saba</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+<uf>
+<Name>Saba (Netherlands Antilles)</Name>
+</uf>
+<uf>
+<Name>Saint Eustatius</Name>
+</uf>
+<uf>
+<Name>Sint Eustatius</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+<uf>
+<Name>Sint Eustatius (Netherlands Antilles)</Name>
+</uf>
+<uf>
+<Name>Statia (Netherlands Antilles)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cj</uri>
+<Name authorized="yes">Cayman Islands</Name>
+<Code>cj</Code>
+<region>West Indies</region>
+<uf>
+<Name>Cayman Brac Island</Name>
+</uf>
+<uf>
+<Name>Grand Cayman Island</Name>
+</uf>
+<uf>
+<Name>Little Cayman Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cx</uri>
+<Name authorized="yes">Central African Republic</Name>
+<Code>cx</Code>
+<region>Africa</region>
+<uf>
+<Name>Central African Empire</Name>
+</uf>
+<uf>
+<Name>Ubangi-Shari</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cd</uri>
+<Name authorized="yes">Chad</Name>
+<Code>cd</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cl</uri>
+<Name authorized="yes">Chile</Name>
+<Code>cl</Code>
+<region>South America</region>
+<uf>
+<Name>Easter Island</Name>
+</uf>
+<uf>
+<Name>Isla de Pasqua</Name>
+</uf>
+<uf>
+<Name>Isla Sala y Gómez</Name>
+</uf>
+<uf>
+<Name>Islas Juan Fernández</Name>
+</uf>
+<uf>
+<Name>Juan Fernández, Islas</Name>
+</uf>
+<uf>
+<Name>Pasqua, Isla de</Name>
+</uf>
+<uf>
+<Name>Sala y Gómez, Isla</Name>
+</uf>
+<uf>
+<Name>San Félix</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cc</uri>
+<Name authorized="yes">China</Name>
+<Code>cc</Code>
+<region>Asia</region>
+<uf>
+<Name>Hainan Island</Name>
+</uf>
+<uf>
+<Name>Hong Kong</Name>
+<note>
+<Name>Hong Kong</Name>
+<Code status="obsolete">hk</Code>
+<date type="before">199710</date>
+</note>
+</uf>
+<uf>
+<Name>Inner Mongolia</Name>
+</uf>
+<uf>
+<Name>Kowloon</Name>
+</uf>
+<uf>
+<Name>Macao</Name>
+</uf>
+<uf>
+<Name>Macau</Name>
+<note>
+<Name>Macao</Name>
+<Code status="obsolete">mh</Code>
+<date type="before">200005</date>
+</note>
+</uf>
+<uf>
+<Name>Manchuria</Name>
+</uf>
+<uf>
+<Name>Sinkiang</Name>
+</uf>
+<uf>
+<Name>New Territories</Name>
+</uf>
+<uf>
+<Name>Taipa</Name>
+<note>
+<Name>Macao</Name>
+<Code status="obsolete">mh</Code>
+<date type="before">200005</date>
+</note>
+</uf>
+<uf>
+<Name>Tibet</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ch</uri>
+<Name authorized="yes">China (Republic : 1949- )</Name>
+<Code>ch</Code>
+<region>Asia</region>
+<uf>
+<Name>Formosa Island</Name>
+</uf>
+<uf>
+<Name>Nationalist China</Name>
+</uf>
+<uf>
+<Name>P'eng-hu Island</Name>
+</uf>
+<uf>
+<Name>Pescadores Islands</Name>
+</uf>
+<uf>
+<Name>Taiwan Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xa</uri>
+<Name authorized="yes">Christmas Island (Indian Ocean)</Name>
+<Code>xa</Code>
+<region>Indian Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xb</uri>
+<Name authorized="yes">Cocos (Keeling) Islands</Name>
+<Code>xb</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Keeling Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ck</uri>
+<Name authorized="yes">Colombia</Name>
+<Code>ck</Code>
+<region>South America</region>
+<uf>
+<Name>Isla de Malpelo</Name>
+</uf>
+<uf>
+<Name>Malpelo, Isla de</Name>
+</uf>
+<uf>
+<Name>San Andrés y Providencia</Name>
+</uf>
+<uf>
+<Name>Serrana Bank</Name>
+<note>
+<Name>United States Misc. Caribbean Islands</Name>
+<Code status="obsolete">uc</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Serranilla Bank</Name>
+<note>
+<Name>United States Misc. Caribbean Islands</Name>
+<Code status="obsolete">uc</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cou</uri>
+<Name authorized="yes">Colorado</Name>
+<Code>cou</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cq</uri>
+<Name authorized="yes">Comoros</Name>
+<Code>cq</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Anjouan Island</Name>
+</uf>
+<uf>
+<Name>Comores</Name>
+</uf>
+<uf>
+<Name>Grande Comore Island</Name>
+</uf>
+<uf>
+<Name>Moheli Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cf</uri>
+<Name authorized="yes">Congo (Brazzaville)</Name>
+<Code>cf</Code>
+<region>Africa</region>
+<uf>
+<Name>Middle Congo</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cg</uri>
+<Name authorized="yes">Congo (Democratic Republic)</Name>
+<Code>cg</Code>
+<region>Africa</region>
+<uf>
+<Name>Belgian Congo</Name>
+</uf>
+<uf>
+<Name>Congo (Kinshasa)</Name>
+</uf>
+<uf>
+<Name>Democratic Republic of the Congo</Name>
+</uf>
+<uf>
+<Name>Zaire</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ctu</uri>
+<Name authorized="yes">Connecticut </Name>
+<Code>ctu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cw</uri>
+<Name authorized="yes">Cook Islands</Name>
+<Code>cw</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Danger Atoll</Name>
+</uf>
+<uf>
+<Name>Manihiki Atoll</Name>
+</uf>
+<uf>
+<Name>Penrhyn Atoll</Name>
+</uf>
+<uf>
+<Name>Rakahanga Atoll</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xga</uri>
+<Name authorized="yes">Coral Sea Islands Territory</Name>
+<Code>xga</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cr</uri>
+<Name authorized="yes">Costa Rica</Name>
+<Code>cr</Code>
+<region>Central America</region>
+<uf>
+<Name>Cocos Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/iv</uri>
+<Name authorized="yes">Côte d'Ivoire</Name>
+<Code>iv</Code>
+<region>Africa</region>
+<uf>
+<Name>Ivory Coast</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ci</uri>
+<Name authorized="yes">Croatia</Name>
+<Code>ci</Code>
+<region>Europe</region>
+<note>
+<Name>Yugoslavia</Name>
+<Code status="obsolete">yu</Code>
+<date type="before">199210</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cu</uri>
+<Name authorized="yes">Cuba</Name>
+<Code>cu</Code>
+<region>West Indies</region>
+<uf>
+<Name>Isle of Pines (Caribbean)</Name>
+</uf>
+<uf>
+<Name>Pines, Isle of (Caribbean)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/co</uri>
+<Name authorized="yes">Curaçao</Name>
+<Code>co</Code>
+<region>West Indies</region>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+<uf>
+<Name>Curaçao (Netherlands Antilles)</Name>
+</uf>
+<uf>
+<Name>Netherlands Antilles</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/cy</uri>
+<Name authorized="yes">Cyprus</Name>
+<Code>cy</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xr</uri>
+<Name authorized="yes">Czech Republic</Name>
+<Code>xr</Code>
+<region>Europe</region>
+<note>
+<Name>Czechoslovakia</Name>
+<Code status="obsolete">cs</Code>
+<date type="before">199305</date>
+</note>
+<uf>
+<Name>Czechoslovakia</Name>
+<note>
+<Name>Czechoslovakia</Name>
+<Code status="obsolete">cs</Code>
+<date type="before">199305</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/deu</uri>
+<Name authorized="yes">Delaware</Name>
+<Code>deu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/dk</uri>
+<Name authorized="yes">Denmark</Name>
+<Code>dk</Code>
+<region>Europe</region>
+<uf>
+<Name>Bornholm Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/dcu</uri>
+<Name authorized="yes">District of Columbia</Name>
+<Code>dcu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ft</uri>
+<Name authorized="yes">Djibouti</Name>
+<Code>ft</Code>
+<region>Africa</region>
+<uf>
+<Name>Afars</Name>
+</uf>
+<uf>
+<Name>French Somaliland</Name>
+</uf>
+<uf>
+<Name>French Territory of the Afars and Issas</Name>
+</uf>
+<uf>
+<Name>Issas</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/dq</uri>
+<Name authorized="yes">Dominica</Name>
+<Code>dq</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/dr</uri>
+<Name authorized="yes">Dominican Republic</Name>
+<Code>dr</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ec</uri>
+<Name authorized="yes">Ecuador</Name>
+<Code>ec</Code>
+<region>South America</region>
+<uf>
+<Name>Archipiélago de Colón</Name>
+</uf>
+<uf>
+<Name>Colón, Archipiélago de</Name>
+</uf>
+<uf>
+<Name>Galapagos Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ua</uri>
+<Name authorized="yes">Egypt</Name>
+<Code>ua</Code>
+<region>Africa</region>
+<uf>
+<Name>Arab Republic of Egypt</Name>
+</uf>
+<uf>
+<Name>United Arab Republic</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/es</uri>
+<Name authorized="yes">El Salvador</Name>
+<Code>es</Code>
+<region>Central America</region>
+<uf>
+<Name>Salvador</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/enk</uri>
+<Name authorized="yes">England</Name>
+<Code>enk</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/eg</uri>
+<Name authorized="yes">Equatorial Guinea</Name>
+<Code>eg</Code>
+<region>Africa</region>
+<uf>
+<Name>Annobón</Name>
+</uf>
+<uf>
+<Name>Bioko</Name>
+</uf>
+<uf>
+<Name>Corisco Island</Name>
+</uf>
+<uf>
+<Name>Elobey, Great</Name>
+</uf>
+<uf>
+<Name>Elobey, Small</Name>
+</uf>
+<uf>
+<Name>Fernando Po Island</Name>
+</uf>
+<uf>
+<Name>Macias Nguema Biyogo</Name>
+</uf>
+<uf>
+<Name>Pagalu</Name>
+</uf>
+<uf>
+<Name>Rio Muni</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ea</uri>
+<Name authorized="yes">Eritrea</Name>
+<Code>ea</Code>
+<region>Africa</region>
+<note>
+<Name>Ethiopia</Name>
+<Code status="obsolete">et</Code>
+<date type="before">199311</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/er</uri>
+<Name authorized="yes">Estonia</Name>
+<Code>er</Code>
+<region>Europe</region>
+<note>
+<Name>Estonia</Name>
+<Code status="obsolete">err</Code>
+<date type="before">199210</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sq</uri>
+<Name authorized="yes">Eswatini</Name>
+<Code>sq</Code>
+<region>Africa</region>
+<uf>
+<Name>Swaziland</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/et</uri>
+<Name authorized="yes">Ethiopia</Name>
+<Code>et</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fk</uri>
+<Name authorized="yes">Falkland Islands</Name>
+<Code>fk</Code>
+<region>Atlantic Ocean</region>
+<uf>
+<Name>East Falkland Island</Name>
+</uf>
+<uf>
+<Name>Islas Malvinas</Name>
+</uf>
+<uf>
+<Name>Malvinas, Islas</Name>
+</uf>
+<uf>
+<Name>West Falkland Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fa</uri>
+<Name authorized="yes">Faroe Islands</Name>
+<Code>fa</Code>
+<region>Atlantic Ocean</region>
+<uf>
+<Name>Færoe Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fj</uri>
+<Name authorized="yes">Fiji</Name>
+<Code>fj</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Rotuma Island</Name>
+</uf>
+<uf>
+<Name>Vanua Levu Island</Name>
+</uf>
+<uf>
+<Name>Viti Levu Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fi</uri>
+<Name authorized="yes">Finland</Name>
+<Code>fi</Code>
+<region>Europe</region>
+<uf>
+<Name>Ahvenanmaa</Name>
+</uf>
+<uf>
+<Name>Åland Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/flu</uri>
+<Name authorized="yes">Florida</Name>
+<Code>flu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fr</uri>
+<Name authorized="yes">France</Name>
+<Code>fr</Code>
+<region>Europe</region>
+<uf>
+<Name>Corsica</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fg</uri>
+<Name authorized="yes">French Guiana</Name>
+<Code>fg</Code>
+<region>South America</region>
+<uf>
+<Name>Guiana, French</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fp</uri>
+<Name authorized="yes">French Polynesia</Name>
+<Code>fp</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Austral Islands</Name>
+</uf>
+<uf>
+<Name>Clipperton Island</Name>
+</uf>
+<uf>
+<Name>Gambier Islands</Name>
+</uf>
+<uf>
+<Name>Iles Australes</Name>
+</uf>
+<uf>
+<Name>Iles du Vent</Name>
+</uf>
+<uf>
+<Name>Iles Sous le Vent</Name>
+</uf>
+<uf>
+<Name>Marquesas Islands</Name>
+</uf>
+<uf>
+<Name>Polynesia, French</Name>
+</uf>
+<uf>
+<Name>Society Islands</Name>
+</uf>
+<uf>
+<Name>Sous le Vent, Iles</Name>
+</uf>
+<uf>
+<Name>Tahiti</Name>
+</uf>
+<uf>
+<Name>Tuamotu Archipelago</Name>
+</uf>
+<uf>
+<Name>Vent, Iles du</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/go</uri>
+<Name authorized="yes">Gabon</Name>
+<Code>go</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gm</uri>
+<Name authorized="yes">Gambia</Name>
+<Code>gm</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gz</uri>
+<Name authorized="yes">Gaza Strip</Name>
+<Code>gz</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gau</uri>
+<Name authorized="yes">Georgia</Name>
+<Code>gau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gs</uri>
+<Name authorized="yes">Georgia (Republic)</Name>
+<Code>gs</Code>
+<region>Asia</region>
+<note>
+<Name>Georgian S.S.R.</Name>
+<Code status="obsolete">gsr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Georgian S.S.R.</Name>
+<note>
+<Name>Georgian S.S.R.</Name>
+<Code status="obsolete">gsr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gw</uri>
+<Name authorized="yes">Germany</Name>
+<Code>gw</Code>
+<region>Europe</region>
+<uf>
+<Name>Berlin, East</Name>
+<note>
+<Name>Germany (East)</Name>
+<Code status="obsolete">ge</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Berlin, West</Name>
+<note>
+<Name>West Berlin</Name>
+<Code status="obsolete">wb</Code>
+<date type="before">199001</date>
+</note>
+</uf>
+<uf>
+<Name>East Berlin</Name>
+<note>
+<Name>Germany (East)</Name>
+<Code status="obsolete">ge</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Germany (East)</Name>
+<note>
+<Name>Germany (East)</Name>
+<Code status="obsolete">ge</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Germany (West)</Name>
+</uf>
+<uf>
+<Name>Germany, Democratic Republic of</Name>
+<note>
+<Name>Germany (East)</Name>
+<Code status="obsolete">ge</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Germany, Federal Republic of</Name>
+</uf>
+<uf>
+<Name>West Berlin</Name>
+<note>
+<Name>West Berlin</Name>
+<Code status="obsolete">wb</Code>
+<date type="before">199001</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gh</uri>
+<Name authorized="yes">Ghana</Name>
+<Code>gh</Code>
+<region>Africa</region>
+<uf>
+<Name>Ashanti</Name>
+</uf>
+<uf>
+<Name>Gold Coast</Name>
+</uf>
+<uf>
+<Name>Northern Territories</Name>
+</uf>
+<uf>
+<Name>Togoland</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gi</uri>
+<Name authorized="yes">Gibraltar</Name>
+<Code>gi</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gr</uri>
+<Name authorized="yes">Greece</Name>
+<Code>gr</Code>
+<region>Europe</region>
+<uf>
+<Name>Aegean Islands</Name>
+</uf>
+<uf>
+<Name>Crete</Name>
+</uf>
+<uf>
+<Name>Dodecanese</Name>
+</uf>
+<uf>
+<Name>Ionian Islands</Name>
+</uf>
+<uf>
+<Name>Mount Athos</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gl</uri>
+<Name authorized="yes">Greenland</Name>
+<Code>gl</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gd</uri>
+<Name authorized="yes">Grenada</Name>
+<Code>gd</Code>
+<region>West Indies</region>
+<uf>
+<Name>Grenadine Islands, Southern</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gp</uri>
+<Name authorized="yes">Guadeloupe</Name>
+<Code>gp</Code>
+<region>West Indies</region>
+<uf>
+<Name>Basse-Terre</Name>
+</uf>
+<uf>
+<Name>Grande-Terre</Name>
+</uf>
+<uf>
+<Name>Iles de la Petite Terre</Name>
+</uf>
+<uf>
+<Name>Iles des Saintes</Name>
+</uf>
+<uf>
+<Name>La Désirade</Name>
+</uf>
+<uf>
+<Name>Marie-Galante</Name>
+</uf>
+<uf>
+<Name>Petite Terre, Iles de</Name>
+</uf>
+<uf>
+<Name>Saintes, Iles des</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gu</uri>
+<Name authorized="yes">Guam</Name>
+<Code>gu</Code>
+<region>Pacific Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gt</uri>
+<Name authorized="yes">Guatemala</Name>
+<Code>gt</Code>
+<region>Central America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gg</uri>
+<Name authorized="yes">Guernsey</Name>
+<Code>gg</Code>
+<region>Europe</region>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+<uf>
+<Name>Alderney</Name>
+</uf>
+<uf>
+<Name>Brechou</Name>
+</uf>
+<uf>
+<Name>Brecqhou</Name>
+</uf>
+<uf>
+<Name>Channel Islands</Name>
+</uf>
+<uf>
+<Name>Guernsey Island</Name>
+</uf>
+<uf>
+<Name>Herm</Name>
+</uf>
+<uf>
+<Name>Herm Island</Name>
+</uf>
+<uf>
+<Name>Jethou</Name>
+</uf>
+<uf>
+<Name>Lihou</Name>
+</uf>
+<uf>
+<Name>Sark</Name>
+</uf>
+<uf>
+<Name>Sark Island</Name>
+</uf>
+<uf>
+<Name>United Kingdom Misc. Islands</Name>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gv</uri>
+<Name authorized="yes">Guinea</Name>
+<Code>gv</Code>
+<region>Africa</region>
+<uf>
+<Name>French Guinea</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pg</uri>
+<Name authorized="yes">Guinea-Bissau</Name>
+<Code>pg</Code>
+<region>Africa</region>
+<uf>
+<Name>Arquipélago dos Bijagós</Name>
+</uf>
+<uf>
+<Name>Bijagós, Arquipélago dos</Name>
+</uf>
+<uf>
+<Name>Bissagos Islands</Name>
+</uf>
+<uf>
+<Name>Guinea, Portuguese</Name>
+</uf>
+<uf>
+<Name>Portuguese Guinea</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gy</uri>
+<Name authorized="yes">Guyana</Name>
+<Code>gy</Code>
+<region>South America</region>
+<uf>
+<Name>British Guiana</Name>
+</uf>
+<uf>
+<Name>Guiana, British</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ht</uri>
+<Name authorized="yes">Haiti</Name>
+<Code>ht</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/hiu</uri>
+<Name authorized="yes">Hawaii</Name>
+<Code>hiu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/hm</uri>
+<Name authorized="yes">Heard and McDonald Islands</Name>
+<Code>hm</Code>
+<region>Indian Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ho</uri>
+<Name authorized="yes">Honduras</Name>
+<Code>ho</Code>
+<region>Central America</region>
+<uf>
+<Name>Swan Islands</Name>
+<note>
+<Name>Swan Islands</Name>
+<Code status="obsolete">sv</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/hu</uri>
+<Name authorized="yes">Hungary</Name>
+<Code>hu</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ic</uri>
+<Name authorized="yes">Iceland</Name>
+<Code>ic</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/idu</uri>
+<Name authorized="yes">Idaho</Name>
+<Code>idu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ilu</uri>
+<Name authorized="yes">Illinois</Name>
+<Code>ilu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ii</uri>
+<Name authorized="yes">India</Name>
+<Code>ii</Code>
+<region>Asia</region>
+<uf>
+<Name>Amindivi Islands</Name>
+</uf>
+<uf>
+<Name>Andaman Islands</Name>
+</uf>
+<uf>
+<Name>Daman</Name>
+</uf>
+<uf>
+<Name>Diu</Name>
+</uf>
+<uf>
+<Name>Goa</Name>
+</uf>
+<uf>
+<Name>Laccadive Island</Name>
+</uf>
+<uf>
+<Name>Minicoy Island</Name>
+</uf>
+<uf>
+<Name>Nicobar Islands</Name>
+</uf>
+<uf>
+<Name>Sikkim</Name>
+<note>
+<Name>Sikkim</Name>
+<Code status="obsolete">sk</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/inu</uri>
+<Name authorized="yes">Indiana</Name>
+<Code>inu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/io</uri>
+<Name authorized="yes">Indonesia</Name>
+<Name>Indonesia</Name>
+<Code>io</Code>
+<region>Asia</region>
+<uf>
+<Name>Irian Barat</Name>
+</uf>
+<uf>
+<Name>Netherlands New Guinea</Name>
+</uf>
+<uf>
+<Name>West New Guinea</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/iau</uri>
+<Name authorized="yes">Iowa</Name>
+<Code>iau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ir</uri>
+<Name authorized="yes">Iran</Name>
+<Code>ir</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/iq</uri>
+<Name authorized="yes">Iraq</Name>
+<Code>iq</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/iy</uri>
+<Name authorized="yes">Iraq-Saudi Arabia Neutral Zone</Name>
+<Code>iy</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ie</uri>
+<Name authorized="yes">Ireland</Name>
+<Code>ie</Code>
+<region>Europe</region>
+<uf>
+<Name>Eire</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/im</uri>
+<Name authorized="yes">Isle of Man</Name>
+<Code>im</Code>
+<region>Europe</region>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+<uf>
+<Name>Calf of Man</Name>
+</uf>
+<uf>
+<Name>United Kingdom Misc. Islands</Name>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/is</uri>
+<Name authorized="yes">Israel</Name>
+<Code>is</Code>
+<region>Asia</region>
+<uf>
+<Name>Israel-Jordan Demilitarized Zones</Name>
+<note>
+<Name>Israel-Jordan Demilitarized Zones</Name>
+<Code status="obsolete">iw</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Israel-Syria Demilitarized Zones</Name>
+<note>
+<Name>Israel-Syria Demilitarized Zones</Name>
+<Code status="obsolete">iu</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/it</uri>
+<Name authorized="yes">Italy</Name>
+<Code>it</Code>
+<region>Europe</region>
+<uf>
+<Name>Pantelleria</Name>
+</uf>
+<uf>
+<Name>Sardinia</Name>
+</uf>
+<uf>
+<Name>Sicily</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/jm</uri>
+<Name authorized="yes">Jamaica</Name>
+<Code>jm</Code>
+<region>West Indies</region>
+<uf>
+<Name>Morant Cays</Name>
+</uf>
+<uf>
+<Name>Pedro Cays</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ja</uri>
+<Name authorized="yes">Japan</Name>
+<Code>ja</Code>
+<region>Asia</region>
+<uf>
+<Name>Bonin Islands</Name>
+</uf>
+<uf>
+<Name>Daitojima</Name>
+<note>
+<Name>Ryukyu Islands, Southern</Name>
+<Code status="obsolete">ry</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Marcus Island</Name>
+</uf>
+<uf>
+<Name>Namposhoto (Northern)</Name>
+</uf>
+<uf>
+<Name>Namposhoto (Southern)</Name>
+</uf>
+<uf>
+<Name>Nishinoshima Island</Name>
+</uf>
+<uf>
+<Name>Okinawa</Name>
+<note>
+<Name>Ryukyu Islands, Southern</Name>
+<Code status="obsolete">ry</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Parece Vela Island</Name>
+</uf>
+<uf>
+<Name>Ryukyu Islands, Northern</Name>
+</uf>
+<uf>
+<Name>Ryukyu Islands, Southern</Name>
+<note>
+<Name>Ryukyu Islands, Southern</Name>
+<Code status="obsolete">ry</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Torishima</Name>
+<note>
+<Name>Ryukyu Islands, Southern</Name>
+<Code status="obsolete">ry</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Volcano Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/je</uri>
+<Name authorized="yes">Jersey</Name>
+<Code>je</Code>
+<region>Europe</region>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+<uf>
+<Name>Channel Islands</Name>
+</uf>
+<uf>
+<Name>Jersey (Island)</Name>
+</uf>
+<uf>
+<Name>United Kingdom Misc. Islands</Name>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ji</uri>
+<Name authorized="yes">Johnston Atoll</Name>
+<Code>ji</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Sand Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/jo</uri>
+<Name authorized="yes">Jordan</Name>
+<Code>jo</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ksu</uri>
+<Name authorized="yes">Kansas</Name>
+<Code>ksu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/kz</uri>
+<Name authorized="yes">Kazakhstan</Name>
+<Code>kz</Code>
+<region>Asia</region>
+<note>
+<Name>Kazakh S.S.R.</Name>
+<Code status="obsolete">kzr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Kazakh S.S.R.</Name>
+<note>
+<Name>Kazakh S.S.R.</Name>
+<Code status="obsolete">kzr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/kyu</uri>
+<Name authorized="yes">Kentucky</Name>
+<Code>kyu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ke</uri>
+<Name authorized="yes">Kenya</Name>
+<Code>ke</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/gb</uri>
+<Name authorized="yes">Kiribati</Name>
+<Code>gb</Code>
+<region>Pacific Ocean</region>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+<uf>
+<Name>Banaba</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Birnie Island</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Canton Island</Name>
+<note>
+<Name>Canton and Enderbury Islands</Name>
+<Code status="obsolete">cp</Code>
+<date type="before">199301</date>
+</note>
+</uf>
+<uf>
+<Name>Caroline Island</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Central and Southern Line Islands</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Christmas Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Enderbury Island</Name>
+<note>
+<Name>Canton and Enderbury Islands</Name>
+<Code status="obsolete">cp</Code>
+<date type="after">199312</date>
+</note>
+</uf>
+<uf>
+<Name>Fanning Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Flint Island</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Gardner Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Gilbert and Ellice Islands</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Gilbert Islands</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Hull Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Kiritimati</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Line Islands (Southern)</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Malden Island</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Manra Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>McKean Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Nikomaroro Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Ocean Island</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Orona Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Phoenix Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Phoenix Islands</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Rawaki</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Starbuck Island</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Sydney Atoll</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Tabuarean Island</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Vostok Island</Name>
+<note>
+<Name>Central and Southern Line Islands</Name>
+<Code status="obsolete">ln</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Washington Island</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/kn</uri>
+<Name authorized="yes">Korea (North)</Name>
+<Code>kn</Code>
+<region>Asia</region>
+<uf>
+<Name>Democratic People's Republic of Korea</Name>
+</uf>
+<uf>
+<Name>North Korea</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ko</uri>
+<Name authorized="yes">Korea (South)</Name>
+<Code>ko</Code>
+<region>Asia</region>
+<uf>
+<Name>Korea, Republic of</Name>
+</uf>
+<uf>
+<Name>South Korea</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/kv</uri>
+<Name authorized="yes">Kosovo</Name>
+<Code>kv</Code>
+<region>Europe</region>
+<note>
+<text>Coded [rb] for Serbia from February 2007-May 2008. From 1992-April 2007 it was Coded [yu] for Serbia and Montenegro</text>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ku</uri>
+<Name authorized="yes">Kuwait</Name>
+<Code>ku</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/kg</uri>
+<Name authorized="yes">Kyrgyzstan</Name>
+<Code>kg</Code>
+<region>Asia</region>
+<note>
+<Name>Kirghiz S.S.R.</Name>
+<Code status="obsolete">kgr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Kirghiz S.S.R.</Name>
+<note>
+<Name>Kirghiz S.S.R.</Name>
+<Code status="obsolete">kgr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Kirghizia</Name>
+<note>
+<Name>Kirghiz S.S.R.</Name>
+<Code status="obsolete">kgr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ls</uri>
+<Name authorized="yes">Laos</Name>
+<Code>ls</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/lv</uri>
+<Name authorized="yes">Latvia</Name>
+<Code>lv</Code>
+<region>Europe</region>
+<note>
+<Name>Latvia</Name>
+<Code status="obsolete">lvr</Code>
+<date type="before">199206</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/le</uri>
+<Name authorized="yes">Lebanon</Name>
+<Code>le</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/lo</uri>
+<Name authorized="yes">Lesotho</Name>
+<Code>lo</Code>
+<region>Africa</region>
+<uf>
+<Name>Basutoland</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/lb</uri>
+<Name authorized="yes">Liberia</Name>
+<Code>lb</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ly</uri>
+<Name authorized="yes">Libya</Name>
+<Code>ly</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/lh</uri>
+<Name authorized="yes">Liechtenstein</Name>
+<Code>lh</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/li</uri>
+<Name authorized="yes">Lithuania</Name>
+<Code>li</Code>
+<region>Europe</region>
+<note>
+<Name>Lithuania</Name>
+<Code status="obsolete">lir</Code>
+<date type="before">199206</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/lau</uri>
+<Name authorized="yes">Louisiana</Name>
+<Code>lau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/lu</uri>
+<Name authorized="yes">Luxembourg</Name>
+<Code>lu</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mg</uri>
+<Name authorized="yes">Madagascar</Name>
+<Code>mg</Code>
+<region>Africa</region>
+<uf>
+<Name>Malagasy Republic</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/meu</uri>
+<Name authorized="yes">Maine</Name>
+<Code>meu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mw</uri>
+<Name authorized="yes">Malawi</Name>
+<Code>mw</Code>
+<region>Africa</region>
+<uf>
+<Name>Nyasaland</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/my</uri>
+<Name authorized="yes">Malaysia</Name>
+<Code>my</Code>
+<region>Asia</region>
+<uf>
+<Name>Borneo, North</Name>
+</uf>
+<uf>
+<Name>Malaya</Name>
+</uf>
+<uf>
+<Name>North Borneo</Name>
+</uf>
+<uf>
+<Name>Sabah</Name>
+</uf>
+<uf>
+<Name>Sarawak</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xc</uri>
+<Name authorized="yes">Maldives</Name>
+<Code>xc</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Maldive Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ml</uri>
+<Name authorized="yes">Mali</Name>
+<Code>ml</Code>
+<region>Africa</region>
+<uf>
+<Name>French Sudan</Name>
+</uf>
+<uf>
+<Name>Soudan</Name>
+</uf>
+<uf>
+<Name>Sudan, French</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mm</uri>
+<Name authorized="yes">Malta</Name>
+<Code>mm</Code>
+<region>Europe</region>
+<uf>
+<Name>Comino Island</Name>
+</uf>
+<uf>
+<Name>Gozo Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mbc</uri>
+<Name authorized="yes">Manitoba</Name>
+<Code>mbc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xe</uri>
+<Name authorized="yes">Marshall Islands</Name>
+<Code>xe</Code>
+<region>Pacific Ocean</region>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+<uf>
+<Name>Ailinglapalap Atoll</Name>
+</uf>
+<uf>
+<Name>Arno (Atoll)</Name>
+</uf>
+<uf>
+<Name>Bikini (Atoll)</Name>
+</uf>
+<uf>
+<Name>Ebon Atoll</Name>
+</uf>
+<uf>
+<Name>Eniwetok Atoll</Name>
+</uf>
+<uf>
+<Name>Jaluit Atoll</Name>
+</uf>
+<uf>
+<Name>Kili Island</Name>
+</uf>
+<uf>
+<Name>Kwajalein Atoll</Name>
+</uf>
+<uf>
+<Name>Majuro Atoll</Name>
+</uf>
+<uf>
+<Name>Maloelap Atoll</Name>
+</uf>
+<uf>
+<Name>Mili Atoll</Name>
+</uf>
+<uf>
+<Name>Namorik Atoll</Name>
+</uf>
+<uf>
+<Name>Pacific Islands (Trust Territory)</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Ralik Chain</Name>
+</uf>
+<uf>
+<Name>Ratak Chains</Name>
+</uf>
+<uf>
+<Name>Rongelap Atoll</Name>
+</uf>
+<uf>
+<Name>Taongi Atoll</Name>
+</uf>
+<uf>
+<Name>Trust Territory of the Pacific Islands</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Ujelang Atoll</Name>
+</uf>
+<uf>
+<Name>Utirik Atoll</Name>
+</uf>
+<uf>
+<Name>Wotje Atoll</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mq</uri>
+<Name authorized="yes">Martinique</Name>
+<Code>mq</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mdu</uri>
+<Name authorized="yes">Maryland</Name>
+<Code>mdu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mau</uri>
+<Name authorized="yes">Massachusetts</Name>
+<Code>mau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mu</uri>
+<Name authorized="yes">Mauritania</Name>
+<Code>mu</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mf</uri>
+<Name authorized="yes">Mauritius</Name>
+<Code>mf</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Agalega Islands</Name>
+</uf>
+<uf>
+<Name>Cargados Carajos Shoals</Name>
+</uf>
+<uf>
+<Name>Rodrigues Island</Name>
+</uf>
+<uf>
+<Name>Saint Brandon</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ot</uri>
+<Name authorized="yes">Mayotte</Name>
+<Code>ot</Code>
+<region>Indian Ocean</region>
+<note>
+<Name>Comoros</Name>
+<Code status="obsolete">cq</Code>
+<date type="before">198707</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mx</uri>
+<Name authorized="yes">Mexico</Name>
+<Code>mx</Code>
+<region>North America</region>
+<uf>
+<Name>Islas de Revillagigedo</Name>
+</uf>
+<uf>
+<Name>Revillagigedo, Islas de</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/miu</uri>
+<Name authorized="yes">Michigan</Name>
+<Code>miu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fm</uri>
+<Name authorized="yes">Micronesia (Federated States)</Name>
+<Code>fm</Code>
+<region>Pacific Ocean</region>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+<uf>
+<Name>Ascension Island (Micronesia)</Name>
+</uf>
+<uf>
+<Name>Eauripik Atoll</Name>
+</uf>
+<uf>
+<Name>Fais Island</Name>
+</uf>
+<uf>
+<Name>Faraulep Atoll</Name>
+</uf>
+<uf>
+<Name>Federated States of Micronesia</Name>
+</uf>
+<uf>
+<Name>Gaferut Island</Name>
+</uf>
+<uf>
+<Name>Hall Islands</Name>
+</uf>
+<uf>
+<Name>Ifalik Atoll</Name>
+</uf>
+<uf>
+<Name>Kapingamarangi Atoll</Name>
+</uf>
+<uf>
+<Name>Kosrae (Micronesia)</Name>
+</uf>
+<uf>
+<Name>Kusaie (Micronesia)</Name>
+</uf>
+<uf>
+<Name>Mortlock Islands</Name>
+</uf>
+<uf>
+<Name>Namonuito Atoll</Name>
+</uf>
+<uf>
+<Name>Ngatik Atoll</Name>
+</uf>
+<uf>
+<Name>Ngulu Atoll</Name>
+</uf>
+<uf>
+<Name>Nukuoru Atoll</Name>
+</uf>
+<uf>
+<Name>Oroluk Atoll</Name>
+</uf>
+<uf>
+<Name>Pacific Islands (Trust Territory)</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Pingelap Atoll</Name>
+</uf>
+<uf>
+<Name>Pohnpei</Name>
+</uf>
+<uf>
+<Name>Ponape (Micronesia)</Name>
+</uf>
+<uf>
+<Name>Pulap Atoll</Name>
+</uf>
+<uf>
+<Name>Pulusak Island</Name>
+</uf>
+<uf>
+<Name>Puluwat Atoll</Name>
+</uf>
+<uf>
+<Name>Satawal Island</Name>
+</uf>
+<uf>
+<Name>Senyavin Islands</Name>
+</uf>
+<uf>
+<Name>Truk (Micronesia)</Name>
+</uf>
+<uf>
+<Name>Trust Territory of the Pacific Islands</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Ulithi Islands</Name>
+</uf>
+<uf>
+<Name>West Fayu Atoll</Name>
+</uf>
+<uf>
+<Name>Woleai Atolls</Name>
+</uf>
+<uf>
+<Name>Yap (Micronesia)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xf</uri>
+<Name authorized="yes">Midway Islands</Name>
+<Code>xf</Code>
+<region>Pacific Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mnu</uri>
+<Name authorized="yes">Minnesota</Name>
+<Code>mnu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/msu</uri>
+<Name authorized="yes">Mississippi</Name>
+<Code>msu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mou</uri>
+<Name authorized="yes">Missouri</Name>
+<Code>mou</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mv</uri>
+<Name authorized="yes">Moldova</Name>
+<Code>mv</Code>
+<region>Europe</region>
+<note>
+<Name>Moldavian S.S.R.</Name>
+<Code status="obsolete">mvr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Moldavian S.S.R.</Name>
+<note>
+<Name>Moldavian S.S.R.</Name>
+<Code status="obsolete">mvr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mc</uri>
+<Name authorized="yes">Monaco</Name>
+<Code>mc</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mp</uri>
+<Name authorized="yes">Mongolia</Name>
+<Code>mp</Code>
+<region>Asia</region>
+<uf>
+<Name>Mongolian People's Republic</Name>
+</uf>
+<uf>
+<Name>Outer Mongolia</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mtu</uri>
+<Name authorized="yes">Montana</Name>
+<Code>mtu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mo</uri>
+<Name authorized="yes">Montenegro</Name>
+<Code>mo</Code>
+<region>Europe</region>
+<note>
+<text>Coded [yu] for Serbia and Montenegro from 1992-April 2007</text>
+</note>
+<uf>
+<Name>Yugoslavia</Name>
+<note>
+<Name>Yugoslavia</Name>
+<Code status="obsolete">yu</Code>
+<date type="before">199201</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mj</uri>
+<Name authorized="yes">Montserrat</Name>
+<Code>mj</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mr</uri>
+<Name authorized="yes">Morocco</Name>
+<Code>mr</Code>
+<region>Africa</region>
+<uf>
+<Name>French Morocco</Name>
+</uf>
+<uf>
+<Name>Ifni</Name>
+</uf>
+<uf>
+<Name>Spanish Morocco</Name>
+</uf>
+<uf>
+<Name>Tangier Zone</Name>
+</uf>
+<uf>
+<Name>Zona Sur del Protectorado de Marruecos</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mz</uri>
+<Name authorized="yes">Mozambique</Name>
+<Code>mz</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sx</uri>
+<Name authorized="yes">Namibia</Name>
+<Code>sx</Code>
+<region>Africa</region>
+<uf>
+<Name>South-West Africa</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nu</uri>
+<Name authorized="yes">Nauru</Name>
+<Code>nu</Code>
+<region>Pacific Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nbu</uri>
+<Name authorized="yes">Nebraska</Name>
+<Code>nbu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/np</uri>
+<Name authorized="yes">Nepal</Name>
+<Code>np</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ne</uri>
+<Name authorized="yes">Netherlands</Name>
+<Code>ne</Code>
+<region>Europe</region>
+<uf>
+<Name>Holland</Name>
+</uf>
+</Country>
+<!--  Made Obsolete Dec. 2011
+      <Country>
+         <uri>info:lc/vocabulary/countries/na</uri>
+         <Name authorized="yes">Netherlands Antilles</Name>
+         <Code>na</Code>
+         <region>West Indies</region>
+         <uf>
+            <Name>Bonaire</Name>
+         </uf>
+         <uf>
+            <Name>Curaçao</Name>
+         </uf>
+         <uf>
+            <Name>Saba</Name>
+         </uf>
+         <uf>
+            <Name>Saint Martin, Southern</Name>
+         </uf>
+         <uf>
+            <Name>Sint Eustatius</Name>
+         </uf>
+      </Country>  -->
+<Country>
+<uri>info:lc/vocabulary/countries/nvu</uri>
+<Name authorized="yes">Nevada</Name>
+<Code>nvu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nkc</uri>
+<Name authorized="yes">New Brunswick</Name>
+<Code>nkc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nl</uri>
+<Name authorized="yes">New Caledonia</Name>
+<Code>nl</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Belep Islands</Name>
+</uf>
+<uf>
+<Name>Chesterfield, Iles</Name>
+</uf>
+<uf>
+<Name>Huon, Ile</Name>
+</uf>
+<uf>
+<Name>Ile des Pins</Name>
+</uf>
+<uf>
+<Name>Ile Huon</Name>
+</uf>
+<uf>
+<Name>Ile Uvea (New Caledonia)</Name>
+</uf>
+<uf>
+<Name>Ile Walpole</Name>
+</uf>
+<uf>
+<Name>Iles Belep</Name>
+</uf>
+<uf>
+<Name>Iles Chesterfield</Name>
+</uf>
+<uf>
+<Name>Isle of Pines (Pacific Ocean)</Name>
+</uf>
+<uf>
+<Name>Loyalty Islands</Name>
+</uf>
+<uf>
+<Name>Pines, Isle of (Pacific Ocean)</Name>
+</uf>
+<uf>
+<Name>Pins, Ile des</Name>
+</uf>
+<uf>
+<Name>Uvea (New Caledonia)</Name>
+</uf>
+<uf>
+<Name>Walpole, Ile</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nhu</uri>
+<Name authorized="yes">New Hampshire</Name>
+<Code>nhu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nju</uri>
+<Name authorized="yes">New Jersey</Name>
+<Code>nju</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nmu</uri>
+<Name authorized="yes">New Mexico</Name>
+<Code>nmu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xna</uri>
+<Name authorized="yes">New South Wales</Name>
+<Code>xna</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nyu</uri>
+<Name authorized="yes">New York (State)</Name>
+<Code>nyu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nz</uri>
+<Name authorized="yes">New Zealand</Name>
+<Code>nz</Code>
+<region>Australasia</region>
+<uf>
+<Name>Chatham Islands</Name>
+</uf>
+<uf>
+<Name>Kermadec Islands</Name>
+</uf>
+<uf>
+<Name>North Island</Name>
+</uf>
+<uf>
+<Name>South Island</Name>
+</uf>
+<uf>
+<Name>Stewart Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nfc</uri>
+<Name authorized="yes">Newfoundland and Labrador</Name>
+<Code>nfc</Code>
+<region>North America</region>
+<uf>
+<Name>Labrador</Name>
+</uf>
+<uf>
+<Name>Newfoundland</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nq</uri>
+<Name authorized="yes">Nicaragua</Name>
+<Code>nq</Code>
+<region>Central America</region>
+<uf>
+<Name>Corn Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ng</uri>
+<Name authorized="yes">Niger</Name>
+<Code>ng</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nr</uri>
+<Name authorized="yes">Nigeria</Name>
+<Code>nr</Code>
+<region>Africa</region>
+<uf>
+<Name>British Cameroons, Northern</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xh</uri>
+<Name authorized="yes">Niue</Name>
+<Code>xh</Code>
+<region>Pacific Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xx</uri>
+<Name authorized="yes">No place, unknown, or undetermined</Name>
+<Code>xx</Code>
+<region>Other</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nx</uri>
+<Name authorized="yes">Norfolk Island </Name>
+<Code>nx</Code>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ncu</uri>
+<Name authorized="yes">North Carolina</Name>
+<Code>ncu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ndu</uri>
+<Name authorized="yes">North Dakota</Name>
+<Code>ndu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xn</uri>
+<Name authorized="yes">North Macedonia</Name>
+<Code>xn</Code>
+<region>Europe</region>
+<note>
+<Name>Yugoslavia</Name>
+<Code status="obsolete">yu</Code>
+<date type="before">199210</date>
+</note>
+<uf>
+<Name>Macedonia (Republic)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nik</uri>
+<Name authorized="yes">Northern Ireland</Name>
+<Code>nik</Code>
+<region>Europe</region>
+<uf>
+<Name>Ireland, Northern</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nw</uri>
+<Name authorized="yes">Northern Mariana Islands</Name>
+<Code>nw</Code>
+<region>Pacific Ocean</region>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198501</date>
+</note>
+<note>
+<Name>Northern Mariana Islands</Name>
+<Code status="obsolete">nm</Code>
+<date type="before">198707</date>
+</note>
+<uf>
+<Name>Agrihan Island</Name>
+</uf>
+<uf>
+<Name>Aguijan Island</Name>
+</uf>
+<uf>
+<Name>Alamagan Island</Name>
+</uf>
+<uf>
+<Name>Anatahan Island</Name>
+</uf>
+<uf>
+<Name>Asuncion Island</Name>
+</uf>
+<uf>
+<Name>Farallon de Medinilla Island</Name>
+</uf>
+<uf>
+<Name>Farallon de Pajaros Island</Name>
+</uf>
+<uf>
+<Name>Guguan Island</Name>
+</uf>
+<uf>
+<Name>Mariana Islands</Name>
+</uf>
+<uf>
+<Name>Maug Islands</Name>
+</uf>
+<uf>
+<Name>Pacific Islands (Trust Territory)</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Pagan Island</Name>
+</uf>
+<uf>
+<Name>Rota Island</Name>
+</uf>
+<uf>
+<Name>Saipan Island</Name>
+</uf>
+<uf>
+<Name>Sarigan Island</Name>
+</uf>
+<uf>
+<Name>Tinian Island</Name>
+</uf>
+<uf>
+<Name>Trust Territory of the Pacific Islands</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xoa</uri>
+<Name authorized="yes">Northern Territory</Name>
+<Code>xoa</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ntc</uri>
+<Name authorized="yes">Northwest Territories</Name>
+<Code>ntc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/no</uri>
+<Name authorized="yes">Norway</Name>
+<Code>no</Code>
+<region>Europe</region>
+<uf>
+<Name>Bear Island</Name>
+</uf>
+<uf>
+<Name>Jan Mayen</Name>
+<note>
+<Name>Jan Mayen</Name>
+<Code status="obsolete">jn</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Spitsbergen</Name>
+</uf>
+<uf>
+<Name>Svalbard (Norway)</Name>
+<note>
+<Name>Svalbard</Name>
+<Code status="obsolete">sb</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nsc</uri>
+<Name authorized="yes">Nova Scotia</Name>
+<Code>nsc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nuc</uri>
+<Name authorized="yes">Nunavut</Name>
+<Code>nuc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ohu</uri>
+<Name authorized="yes">Ohio</Name>
+<Code>ohu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/oku</uri>
+<Name authorized="yes">Oklahoma</Name>
+<Code>oku</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/mk</uri>
+<Name authorized="yes">Oman</Name>
+<Code>mk</Code>
+<region>Asia</region>
+<uf>
+<Name>Kuria Muria Islands</Name>
+</uf>
+<uf>
+<Name>Muscat and Oman</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/onc</uri>
+<Name authorized="yes">Ontario</Name>
+<Code>onc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/oru</uri>
+<Name authorized="yes">Oregon</Name>
+<Code>oru</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pk</uri>
+<Name authorized="yes">Pakistan</Name>
+<Code>pk</Code>
+<region>Asia</region>
+<uf>
+<Name>Gwadar</Name>
+</uf>
+<uf>
+<Name>West Pakistan</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pw</uri>
+<Name authorized="yes">Palau</Name>
+<Code>pw</Code>
+<region>Pacific Ocean</region>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+<uf>
+<Name>Angaur Island</Name>
+</uf>
+<uf>
+<Name>Babelthuap Island</Name>
+</uf>
+<uf>
+<Name>Belau</Name>
+</uf>
+<uf>
+<Name>Helen Island</Name>
+</uf>
+<uf>
+<Name>Merir Island</Name>
+</uf>
+<uf>
+<Name>Pacific Islands (Trust Territory)</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Peleliu Island</Name>
+</uf>
+<uf>
+<Name>Pelew</Name>
+</uf>
+<uf>
+<Name>Pulo Anna Island</Name>
+</uf>
+<uf>
+<Name>Sonsoral Islands</Name>
+</uf>
+<uf>
+<Name>Tobi Island</Name>
+</uf>
+<uf>
+<Name>Trust Territory of the Pacific Islands</Name>
+<note>
+<Name>Trust Territory of the Pacific Islands</Name>
+<Code status="obsolete">tt</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pn</uri>
+<Name authorized="yes">Panama</Name>
+<Code>pn</Code>
+<region>Central America</region>
+<uf>
+<Name>Canal Zone</Name>
+<note>
+<Name>Canal Zone</Name>
+<Code status="obsolete">cz</Code>
+<date type="before">198501</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pp</uri>
+<Name authorized="yes">Papua New Guinea</Name>
+<Code>pp</Code>
+<region>Asia</region>
+<uf>
+<Name>Admiralty Islands</Name>
+</uf>
+<uf>
+<Name>Bismarck Archipelago</Name>
+</uf>
+<uf>
+<Name>D'Entrecasteaux Islands</Name>
+</uf>
+<uf>
+<Name>Louisiada Archipelago</Name>
+</uf>
+<uf>
+<Name>New Britain Island</Name>
+</uf>
+<uf>
+<Name>New Guinea</Name>
+</uf>
+<uf>
+<Name>New Ireland Island</Name>
+</uf>
+<uf>
+<Name>North East New Guinea</Name>
+</uf>
+<uf>
+<Name>Solomon Islands, Northern</Name>
+</uf>
+<uf>
+<Name>Trobriand Islands</Name>
+</uf>
+<uf>
+<Name>Woodlark Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pf</uri>
+<Name authorized="yes">Paracel Islands]</Name>
+<Code>pf</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/py</uri>
+<Name authorized="yes">Paraguay</Name>
+<Code>py</Code>
+<region>South America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pau</uri>
+<Name authorized="yes">Pennsylvania</Name>
+<Code>pau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pe</uri>
+<Name authorized="yes">Peru</Name>
+<Code>pe</Code>
+<region>South America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ph</uri>
+<Name authorized="yes">Philippines</Name>
+<Code>ph</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pc</uri>
+<Name authorized="yes">Pitcairn Island</Name>
+<Code>pc</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Ducie Atoll</Name>
+</uf>
+<uf>
+<Name>Henderson Island</Name>
+</uf>
+<uf>
+<Name>Oeno Atoll</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pl</uri>
+<Name authorized="yes">Poland</Name>
+<Code>pl</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/po</uri>
+<Name authorized="yes">Portugal</Name>
+<Code>po</Code>
+<region>Europe</region>
+<uf>
+<Name>Azores</Name>
+</uf>
+<uf>
+<Name>Madeira Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pic</uri>
+<Name authorized="yes">Prince Edward Island</Name>
+<Code>pic</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/pr</uri>
+<Name authorized="yes">Puerto Rico</Name>
+<Code>pr</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/qa</uri>
+<Name authorized="yes">Qatar</Name>
+<Code>qa</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/quc</uri>
+<Name authorized="yes">Québec (Province)</Name>
+<Code>quc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/qea</uri>
+<Name authorized="yes">Queensland</Name>
+<Code>qea</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/re</uri>
+<Name authorized="yes">Réunion</Name>
+<Code>re</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Bassas da India</Name>
+</uf>
+<uf>
+<Name>Europa, Ile</Name>
+</uf>
+<uf>
+<Name>Glorieuses, Iles</Name>
+</uf>
+<uf>
+<Name>Ile Europa</Name>
+</uf>
+<uf>
+<Name>Ile Juan de Nova</Name>
+</uf>
+<uf>
+<Name>Ile Tromelin</Name>
+</uf>
+<uf>
+<Name>Iles Glorieuses</Name>
+</uf>
+<uf>
+<Name>Juan de Nova, Ile</Name>
+</uf>
+<uf>
+<Name>Tromelin, Ile</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/riu</uri>
+<Name authorized="yes">Rhode Island</Name>
+<Code>riu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/rm</uri>
+<Name authorized="yes">Romania</Name>
+<Code>rm</Code>
+<region>Europe</region>
+<uf>
+<Name>Rumania</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ru</uri>
+<Name authorized="yes">Russia (Federation)</Name>
+<Code>ru</Code>
+<region>Europe</region>
+<note>
+<Name>Russian S.F.S.R.</Name>
+<Code status="obsolete">rur</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Franz Josef Land</Name>
+</uf>
+<uf>
+<Name>Habomai Islands</Name>
+</uf>
+<uf>
+<Name>Kuril Islands (Southern)</Name>
+</uf>
+<uf>
+<Name>New Siberian Islands</Name>
+</uf>
+<uf>
+<Name>Novaya Zemlya</Name>
+</uf>
+<uf>
+<Name>Russian S.F.S.R.</Name>
+<note>
+<Name>Russian S.F.S.R.</Name>
+<Code status="obsolete">rur</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Sakhalin (Southern)</Name>
+</uf>
+<uf>
+<Name>Severnaya Zemlya</Name>
+</uf>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Wrangel Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/rw</uri>
+<Name authorized="yes">Rwanda</Name>
+<Code>rw</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sc</uri>
+<Name authorized="yes">Saint-Barthélemy</Name>
+<Code>sc</Code>
+<note>
+<text>Coded [gp] (Guadeloupe) before Dec. 2011</text>
+</note>
+<region>West Indies</region>
+<uf>
+<Name>Ile Saint-Barthélemy</Name>
+</uf>
+<uf>
+<Name>Saint Bartholomew</Name>
+</uf>
+<uf>
+<Name>Saint Barts</Name>
+</uf>
+<uf>
+<Name>St. Barthélemy</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xj</uri>
+<Name authorized="yes">Saint Helena</Name>
+<Code>xj</Code>
+<region>Atlantic Ocean</region>
+<uf>
+<Name>Ascension Island (Atlantic Ocean)</Name>
+</uf>
+<uf>
+<Name>Gough Island</Name>
+</uf>
+<uf>
+<Name>Inaccessible Island</Name>
+</uf>
+<uf>
+<Name>Nightingale Island</Name>
+</uf>
+<uf>
+<Name>Tristan da Cunha Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xd</uri>
+<Name authorized="yes">Saint Kitts-Nevis</Name>
+<Code>xd</Code>
+<region>West Indies</region>
+<note>
+<Name>Saint Kitts-Nevis-Anguilla</Name>
+<Code status="obsolete">xi</Code>
+<date type="before">198501</date>
+</note>
+<uf>
+<Name>Saint Christopher</Name>
+</uf>
+<uf>
+<Name>Saint Kitts-Nevis-Anguilla</Name>
+<note>
+<Name>Saint Kitts-Nevis-Anguilla</Name>
+<Code status="obsolete">xi</Code>
+<date type="before">19850101</date>
+</note>
+</uf>
+<uf>
+<Name>St. Christopher</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xk</uri>
+<Name authorized="yes">Saint Lucia</Name>
+<Code>xk</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/st</uri>
+<Name authorized="yes">Saint-Martin</Name>
+<Code>st</Code>
+<region>West Indies</region>
+<uf>
+<Name>Collectivity of Saint Martin</Name>
+</uf>
+<uf>
+<Name>Saint-Martin (Collectivity)</Name>
+</uf>
+<uf>
+<Name>Saint-Martin (France: Collectivity)</Name>
+</uf>
+<uf>
+<Name>Saint Martin, Northern</Name>
+<note>
+<text>Coded [gp] (Guadeloupe) before Dec. 2011</text>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xl</uri>
+<Name authorized="yes">Saint Pierre and Miquelon</Name>
+<Code>xl</Code>
+<region>North America</region>
+<uf>
+<Name>Miquelon</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xm</uri>
+<Name authorized="yes">Saint Vincent and the Grenadines</Name>
+<Code>xm</Code>
+<region>West Indies</region>
+<uf>
+<Name>Grenadine Islands, Northern</Name>
+</uf>
+<uf>
+<Name>Saint Vincent</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ws</uri>
+<Name authorized="yes">Samoa</Name>
+<Code>ws</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Samoa i Sisifo</Name>
+</uf>
+<uf>
+<Name>Samoa, Western</Name>
+</uf>
+<uf>
+<Name>Savai'i</Name>
+</uf>
+<uf>
+<Name>Upolu</Name>
+</uf>
+<uf>
+<Name>Western Samoa</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sm</uri>
+<Name authorized="yes">San Marino</Name>
+<Code>sm</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sf</uri>
+<Name authorized="yes">Sao Tome and Principe</Name>
+<Code>sf</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/snc</uri>
+<Name authorized="yes">Saskatchewan</Name>
+<Code>snc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/su</uri>
+<Name authorized="yes">Saudi Arabia</Name>
+<Code>su</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/stk</uri>
+<Name authorized="yes">Scotland</Name>
+<Code>stk</Code>
+<region>Europe</region>
+<uf>
+<Name>Orkney Islands</Name>
+</uf>
+<uf>
+<Name>Shetland Islands</Name>
+</uf>
+<uf>
+<Name>United Kingdom Misc. Islands</Name>
+<note>
+<Name>United Kingdom Misc. Islands</Name>
+<Code status="obsolete">uik</Code>
+<date type="before">201804</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sg</uri>
+<Name authorized="yes">Senegal</Name>
+<Code>sg</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/rb</uri>
+<Name authorized="yes">Serbia</Name>
+<Code>rb</Code>
+<region>Europe</region>
+<note>
+<text>Coded [yu] for Serbia and Montenegro from 1992-April 2007</text>
+</note>
+<uf>
+<Name>Yugoslavia</Name>
+<note>
+<Name>Yugoslavia</Name>
+<Code status="obsolete">yu</Code>
+<date type="before">199201</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/se</uri>
+<Name authorized="yes">Seychelles</Name>
+<Code>se</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Aldabra Islands</Name>
+<note>
+<Name>British Indian Ocean Territory</Name>
+<Code status="obsolete">bi</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Alphonse Island</Name>
+</uf>
+<uf>
+<Name>Amirante Isles</Name>
+</uf>
+<uf>
+<Name>Bijoutier Island</Name>
+</uf>
+<uf>
+<Name>Cosmoledo Islands</Name>
+</uf>
+<uf>
+<Name>Desroches, Ile</Name>
+<note>
+<Name>British Indian Ocean Territory</Name>
+<Code status="obsolete">bi</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Farquhar Atoll</Name>
+<note>
+<Name>British Indian Ocean Territory</Name>
+<Code status="obsolete">bi</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>François Island</Name>
+</uf>
+<uf>
+<Name>Ile Desroches</Name>
+<note>
+<Name>British Indian Ocean Territory</Name>
+<Code status="obsolete">bi</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Saint Francois Island</Name>
+</uf>
+<uf>
+<Name>Saint Pierre Islet</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sl</uri>
+<Name authorized="yes">Sierra Leone</Name>
+<Code>sl</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/si</uri>
+<Name authorized="yes">Singapore</Name>
+<Code>si</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sn</uri>
+<Name authorized="yes">Sint Maarten</Name>
+<Code>sn</Code>
+<region>West Indies</region>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+<uf>
+<Name>Netherlands Antilles</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+<uf>
+<Name>Saint Martin, Southern</Name>
+<note>
+<Name>Netherlands Antilles</Name>
+<Code status="obsolete">na</Code>
+<date type="before">201112</date>
+</note>
+</uf>
+<uf>
+<Name>Sint Maarten (Netherlands Antilles)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xo</uri>
+<Name authorized="yes">Slovakia</Name>
+<Code>xo</Code>
+<region>Europe</region>
+<note>
+<Name>Czechoslovakia</Name>
+<Code status="obsolete">cs</Code>
+<date type="before">199306</date>
+</note>
+<uf>
+<Name>Czechoslovakia</Name>
+<note>
+<Name>Czechoslovakia</Name>
+<Code status="obsolete">cs</Code>
+<date type="before">199305</date>
+</note>
+</uf>
+<uf>
+<Name>Slovak Socialist Republic</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xv</uri>
+<Name authorized="yes">Slovenia</Name>
+<Code>xv</Code>
+<region>Europe</region>
+<note>
+<Name>Yugoslavia</Name>
+<Code status="obsolete">yu</Code>
+<date type="before">199210</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/bp</uri>
+<Name authorized="yes">Solomon Islands</Name>
+<Code>bp</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>British Solomon Islands</Name>
+</uf>
+<uf>
+<Name>Choiseul</Name>
+</uf>
+<uf>
+<Name>Guadalcanal</Name>
+</uf>
+<uf>
+<Name>Malaita</Name>
+</uf>
+<uf>
+<Name>San Cristóbal</Name>
+</uf>
+<uf>
+<Name>Santa Isabel</Name>
+</uf>
+<uf>
+<Name>Solomon Islands Protectorate</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/so</uri>
+<Name authorized="yes">Somalia</Name>
+<Code>so</Code>
+<region>Africa</region>
+<uf>
+<Name>Somali Republic</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sa</uri>
+<Name authorized="yes">South Africa</Name>
+<Code>sa</Code>
+<region>Africa</region>
+<uf>
+<Name>Bophuthatswana</Name>
+</uf>
+<uf>
+<Name>Ciskei</Name>
+</uf>
+<uf>
+<Name>Lebowa</Name>
+</uf>
+<uf>
+<Name>Machangana</Name>
+</uf>
+<uf>
+<Name>Marion Island</Name>
+</uf>
+<uf>
+<Name>Prince Edward Islands</Name>
+</uf>
+<uf>
+<Name>South Sotho</Name>
+</uf>
+<uf>
+<Name>Transkei</Name>
+</uf>
+<uf>
+<Name>Tswana</Name>
+</uf>
+<uf>
+<Name>Venda</Name>
+</uf>
+<uf>
+<Name>Walvis Bay Enclave</Name>
+</uf>
+<uf>
+<Name>Zulu</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xra</uri>
+<Name authorized="yes">South Australia</Name>
+<Code>xra</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/scu</uri>
+<Name authorized="yes">South Carolina</Name>
+<Code>scu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sdu</uri>
+<Name authorized="yes">South Dakota</Name>
+<Code>sdu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xs</uri>
+<Name authorized="yes">South Georgia and the South Sandwich Islands</Name>
+<Code>xs</Code>
+<region>Atlantic Ocean</region>
+<note>
+<Name>Falkland Islands</Name>
+<Code status="obsolete">fk</Code>
+<date type="before">199101</date>
+</note>
+<uf>
+<Name>South Georgia Island</Name>
+<note>
+<Name>Falkland Islands</Name>
+<Code status="obsolete">fk</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>South Sandwich Islands</Name>
+<note>
+<Name>Falkland Islands</Name>
+<Code status="obsolete">fk</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sd</uri>
+<Name authorized="yes">South Sudan</Name>
+<Code>sd</Code>
+<note>
+<text>Coded [sj] (Sudan) before Aug. 2011</text>
+</note>
+<region>Africa</region>
+<uf>
+<Name>Sudan, South</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sp</uri>
+<Name authorized="yes">Spain</Name>
+<Code>sp</Code>
+<region>Europe</region>
+<uf>
+<Name>Balearic Islands</Name>
+</uf>
+<uf>
+<Name>Canary Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sh</uri>
+<Name authorized="yes">Spanish North Africa</Name>
+<Code>sh</Code>
+<region>Africa</region>
+<uf>
+<Name>Ceuta</Name>
+</uf>
+<uf>
+<Name>Chafarinas, Islas</Name>
+</uf>
+<uf>
+<Name>Islas Chafarinas</Name>
+</uf>
+<uf>
+<Name>Melilla</Name>
+</uf>
+<uf>
+<Name>Peñón de Alhucemas</Name>
+</uf>
+<uf>
+<Name>Peñón de Vélez de la Gomera</Name>
+</uf>
+<uf>
+<Name>Plazas de Soberania</Name>
+</uf>
+<uf>
+<Name>Spanish Territories in Northern Morocco</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xp</uri>
+<Name authorized="yes">Spratly Island</Name>
+<Code>xp</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ce</uri>
+<Name authorized="yes">Sri Lanka</Name>
+<Code>ce</Code>
+<region>Asia</region>
+<uf>
+<Name>Ceylon</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sj</uri>
+<Name authorized="yes">Sudan</Name>
+<Code>sj</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sr</uri>
+<Name authorized="yes">Surinam</Name>
+<Code>sr</Code>
+<region>South America</region>
+<uf>
+<Name>Dutch Guiana</Name>
+</uf>
+<uf>
+<Name>Guiana, Dutch</Name>
+</uf>
+<uf>
+<Name>Netherlands Guiana</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sw</uri>
+<Name authorized="yes">Sweden</Name>
+<Code>sw</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sz</uri>
+<Name authorized="yes">Switzerland</Name>
+<Code>sz</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/sy</uri>
+<Name authorized="yes">Syria</Name>
+<Code>sy</Code>
+<region>Asia</region>
+<uf>
+<Name>Syrian Arab Republic</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ta</uri>
+<Name authorized="yes">Tajikistan</Name>
+<Code>ta</Code>
+<region>Asia</region>
+<note>
+<Name>Tajik S.S.R.</Name>
+<Code status="obsolete">tar</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Tadzhik S.S.R.</Name>
+<note>
+<Name>Tajik S.S.R.</Name>
+<Code status="obsolete">tar</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+<uf>
+<Name>Tajik S.S.R.</Name>
+<note>
+<Name>Tajik S.S.R.</Name>
+<Code status="obsolete">tar</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tz</uri>
+<Name authorized="yes">Tanzania</Name>
+<Code>tz</Code>
+<region>Africa</region>
+<uf>
+<Name>Pemba</Name>
+</uf>
+<uf>
+<Name>Tanganyika</Name>
+</uf>
+<uf>
+<Name>Zanzibar</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tma</uri>
+<Name authorized="yes">Tasmania</Name>
+<Code>tma</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tnu</uri>
+<Name authorized="yes">Tennessee</Name>
+<Code>tnu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/fs</uri>
+<Name authorized="yes">Terres australes et antarctiques françaises</Name>
+<Code>fs</Code>
+<region>Indian Ocean</region>
+<uf>
+<Name>Amsterdam Island</Name>
+</uf>
+<uf>
+<Name>Crozet Island</Name>
+</uf>
+<uf>
+<Name>French Southern and Antarctic Lands</Name>
+</uf>
+<uf>
+<Name>Kerguelen Island</Name>
+</uf>
+<uf>
+<Name>Saint Paul Island</Name>
+</uf>
+<uf>
+<Name>T.A.A.F.</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/txu</uri>
+<Name authorized="yes">Texas</Name>
+<Code>txu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/th</uri>
+<Name authorized="yes">Thailand</Name>
+<Code>th</Code>
+<region>Asia</region>
+<uf>
+<Name>Siam</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/em</uri>
+<Name authorized="yes">Timor-Leste</Name>
+<Code>em</Code>
+<region>Asia</region>
+<uf>
+<Name>Atauro, Ilha de</Name>
+<note>
+<Name>Portuguese Timor</Name>
+<Code status="obsolete">pt</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>East Timor</Name>
+</uf>
+<uf>
+<Name>Ilha de Atauro</Name>
+<note>
+<Name>Portuguese Timor</Name>
+<Code status="obsolete">pt</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Ilheu de Jaco</Name>
+<note>
+<Name>Portuguese Timor</Name>
+<Code status="obsolete">pt</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Jaco, Ilheu de</Name>
+<note>
+<Name>Portuguese Timor</Name>
+<Code status="obsolete">pt</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Oe-Cussi</Name>
+<note>
+<Name>Portuguese Timor</Name>
+<Code status="obsolete">pt</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Portuguese Timor</Name>
+<note>
+<Name>Portuguese Timor</Name>
+<Code status="obsolete">pt</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Timor, East</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tg</uri>
+<Name authorized="yes">Togo</Name>
+<Code>tg</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tl</uri>
+<Name authorized="yes">Tokelau</Name>
+<Code>tl</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Atafu Atoll</Name>
+</uf>
+<uf>
+<Name>Fakaofu Atoll</Name>
+</uf>
+<uf>
+<Name>Nukunono Atoll</Name>
+</uf>
+<uf>
+<Name>Union Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/to</uri>
+<Name authorized="yes">Tonga</Name>
+<Code>to</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Friendly Islands</Name>
+</uf>
+<uf>
+<Name>Haapai</Name>
+</uf>
+<uf>
+<Name>Lulunga</Name>
+</uf>
+<uf>
+<Name>Nomuka</Name>
+</uf>
+<uf>
+<Name>Otu Tolu</Name>
+</uf>
+<uf>
+<Name>Tongatapu</Name>
+</uf>
+<uf>
+<Name>Vavau</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tr</uri>
+<Name authorized="yes">Trinidad and Tobago</Name>
+<Code>tr</Code>
+<region>West Indies</region>
+<uf>
+<Name>Tobago</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ti</uri>
+<Name authorized="yes">Tunisia</Name>
+<Code>ti</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tu</uri>
+<Name authorized="yes">Turkey</Name>
+<Code>tu</Code>
+<region>Asia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tk</uri>
+<Name authorized="yes">Turkmenistan</Name>
+<Code>tk</Code>
+<region>Asia</region>
+<note>
+<Name>Turkmen S.S.R.</Name>
+<Code status="obsolete">tkr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Turkmen S.S.R.</Name>
+<note>
+<Name>Turkmen S.S.R.</Name>
+<Code status="obsolete">tkr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tc</uri>
+<Name authorized="yes">Turks and Caicos Islands</Name>
+<Code>tc</Code>
+<region>West Indies</region>
+<uf>
+<Name>Caicos Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/tv</uri>
+<Name authorized="yes">Tuvalu</Name>
+<Code>tv</Code>
+<region>Pacific Ocean</region>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+<uf>
+<Name>Ellice Islands</Name>
+</uf>
+<uf>
+<Name>Funafuti Atoll</Name>
+</uf>
+<uf>
+<Name>Gilbert and Ellice Islands</Name>
+<note>
+<Name>Gilbert and Ellice Islands</Name>
+<Code status="obsolete">gn</Code>
+<date type="before">197810</date>
+</note>
+</uf>
+<uf>
+<Name>Niulakita Island</Name>
+</uf>
+<uf>
+<Name>Nukufetau Atoll</Name>
+</uf>
+<uf>
+<Name>Nukulaelae Atoll</Name>
+</uf>
+<uf>
+<Name>Nukulailai Atoll</Name>
+</uf>
+<uf>
+<Name>Nurakita Island</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ug</uri>
+<Name authorized="yes">Uganda</Name>
+<Code>ug</Code>
+<region>Africa</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/un</uri>
+<Name authorized="yes">Ukraine</Name>
+<Code>un</Code>
+<region>Europe</region>
+<note>
+<Name>Ukraine</Name>
+<Code status="obsolete">unr</Code>
+<date type="before">199206</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ts</uri>
+<Name authorized="yes">United Arab Emirates</Name>
+<Code>ts</Code>
+<region>Asia</region>
+<uf>
+<Name>Abu Dhabi</Name>
+</uf>
+<uf>
+<Name>Abu Zaby</Name>
+</uf>
+<uf>
+<Name>`Ajman</Name>
+</uf>
+<uf>
+<Name>Dubai</Name>
+</uf>
+<uf>
+<Name>Dubayy</Name>
+</uf>
+<uf>
+<Name>Fujairah</Name>
+</uf>
+<uf>
+<Name>Fujayrah</Name>
+</uf>
+<uf>
+<Name>Kalba</Name>
+</uf>
+<uf>
+<Name>Oman, Trucial</Name>
+</uf>
+<uf>
+<Name>Ras al Khaimah</Name>
+</uf>
+<uf>
+<Name>Ra's al-Khaymah</Name>
+</uf>
+<uf>
+<Name>Shariqah</Name>
+</uf>
+<uf>
+<Name>Sharjah</Name>
+</uf>
+<uf>
+<Name>Trucial Coast</Name>
+</uf>
+<uf>
+<Name>Trucial Oman</Name>
+</uf>
+<uf>
+<Name>Trucial Sheikdoms</Name>
+</uf>
+<uf>
+<Name>Trucial States</Name>
+</uf>
+<uf>
+<Name>Umm al Qaiwain</Name>
+</uf>
+<uf>
+<Name>Umm al-Qaywayn</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/xxk</uri>
+<Name authorized="yes">United Kingdom</Name>
+<Code>xxk</Code>
+<region>Europe</region>
+<note>
+<Name>United Kingdom</Name>
+<Code status="obsolete">uk</Code>
+<date type="before">198803</date>
+</note>
+<uf>
+<Name>Great Britain</Name>
+</uf>
+</Country>
+<!--  Made Obsolete April 2018
+      <Country>
+         <uri>info:lc/vocabulary/countries/uik</uri>
+         <Name authorized="yes">United Kingdom Misc. Islands</Name>
+         <Code>uik</Code>
+         <region>Europe</region>
+         <note>
+            <Name>United Kingdom Misc. Islands</Name>
+            <Code status="obsolete">ui</Code>
+            <date type="before">198803</date>
+         </note>
+         <uf>
+            <Name>Alderney</Name>
+         </uf>
+         <uf>
+            <Name>Brechou</Name>
+         </uf>
+         <uf>
+            <Name>Channel Islands</Name>
+         </uf>
+         <uf>
+            <Name>Guernsey Island</Name>
+         </uf>
+         <uf>
+            <Name>Herm Island</Name>
+         </uf>
+         <uf>
+            <Name>Isle of Man</Name>
+         </uf>
+         <uf>
+            <Name>Jersey (Island)</Name>
+         </uf>
+         <uf>
+            <Name>Jethou</Name>
+         </uf>
+         <uf>
+            <Name>Lihou</Name>
+         </uf>
+         <uf>
+            <Name>Orkney Islands</Name>
+         </uf>
+         <uf>
+            <Name>Sark Island</Name>
+         </uf>
+         <uf>
+            <Name>Shetland Islands</Name>
+         </uf>
+      </Country>  -->
+<Country>
+<uri>info:lc/vocabulary/countries/xxu</uri>
+<Name authorized="yes">United States</Name>
+<Code>xxu</Code>
+<region>North America</region>
+<note>
+<Name>United States</Name>
+<Code status="obsolete">us</Code>
+<date type="before">198803</date>
+</note>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/uc</uri>
+<Name authorized="yes">United States Misc. Caribbean Islands</Name>
+<Code>uc</Code>
+<region>West Indies</region>
+<uf>
+<Name>Navassa Island</Name>
+</uf>
+<uf>
+<Name>Quita Sueno Bank</Name>
+</uf>
+<uf>
+<Name>Roncador Cay</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/up</uri>
+<Name authorized="yes">United States Misc. Pacific Islands</Name>
+<Code>up</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Baker Island</Name>
+</uf>
+<uf>
+<Name>Howland Island</Name>
+</uf>
+<uf>
+<Name>Jarvis Island</Name>
+</uf>
+<uf>
+<Name>Kingman Reef</Name>
+</uf>
+<uf>
+<Name>Palmyra Atoll</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/uy</uri>
+<Name authorized="yes">Uruguay</Name>
+<Code>uy</Code>
+<region>South America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/utu</uri>
+<Name authorized="yes">Utah</Name>
+<Code>utu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/uz</uri>
+<Name authorized="yes">Uzbekistan</Name>
+<Code>uz</Code>
+<region>Asia</region>
+<note>
+<Name>Uzbek S.S.R.</Name>
+<Code status="obsolete">uzr</Code>
+<date type="before">199206</date>
+</note>
+<uf>
+<Name>Soviet Union</Name>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">xxr</Code>
+<date type="before">199206</date>
+</note>
+<note>
+<Name>Soviet Union</Name>
+<Code status="obsolete">ur</Code>
+<date type="before">198803</date>
+</note>
+</uf>
+<uf>
+<Name>Uzbek S.S.R.</Name>
+<note>
+<Name>Uzbek S.S.R.</Name>
+<Code status="obsolete">uzr</Code>
+<date type="before">199206</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/nn</uri>
+<Name authorized="yes">Vanuatu</Name>
+<Code>nn</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Banks Islands</Name>
+</uf>
+<uf>
+<Name>New Hebrides</Name>
+</uf>
+<uf>
+<Name>Torres Islands</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vp</uri>
+<Name authorized="yes">Various places</Name>
+<Code>vp</Code>
+<region>Other</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vc</uri>
+<Name authorized="yes">Vatican City</Name>
+<Code>vc</Code>
+<region>Europe</region>
+<uf>
+<Name>Holy See</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ve</uri>
+<Name authorized="yes">Venezuela</Name>
+<Code>ve</Code>
+<region>South America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vtu</uri>
+<Name authorized="yes">Vermont</Name>
+<Code>vtu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vra</uri>
+<Name authorized="yes">Victoria</Name>
+<Code>vra</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vm</uri>
+<Name authorized="yes">Vietnam</Name>
+<Code>vm</Code>
+<region>Asia</region>
+<note>
+<Name>Vietnam, North</Name>
+<Code status="obsolete">vn</Code>
+<date type="before">197801</date>
+</note>
+<note>
+<Name>Vietnam, South</Name>
+<Code status="obsolete">vs</Code>
+<date type="before">197801</date>
+</note>
+<uf>
+<Name>Democratic People's Republic of Vietnam</Name>
+<note>
+<Name>Vietnam, North</Name>
+<Code status="obsolete">vn</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>North Vietnam</Name>
+<note>
+<Name>Vietnam, North</Name>
+<Code status="obsolete">vn</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>South Vietnam</Name>
+<note>
+<Name>Vietnam, South</Name>
+<Code status="obsolete">vs</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Vietnam, North</Name>
+<note>
+<Name>Vietnam, North</Name>
+<Code status="obsolete">vn</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Vietnam, Republic of</Name>
+<note>
+<Name>Vietnam, South</Name>
+<Code status="obsolete">vs</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+<uf>
+<Name>Vietnam, South</Name>
+<note>
+<Name>Vietnam, South</Name>
+<Code status="obsolete">vs</Code>
+<date type="before">197801</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vi</uri>
+<Name authorized="yes">Virgin Islands of the United States</Name>
+<Code>vi</Code>
+<region>West Indies</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/vau</uri>
+<Name authorized="yes">Virginia</Name>
+<Code>vau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wk</uri>
+<Name authorized="yes">Wake Island</Name>
+<Code>wk</Code>
+<region>Pacific Ocean</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wlk</uri>
+<Name authorized="yes">Wales</Name>
+<Code>wlk</Code>
+<region>Europe</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wf</uri>
+<Name authorized="yes">Wallis and Futuna</Name>
+<Code>wf</Code>
+<region>Pacific Ocean</region>
+<uf>
+<Name>Alofi</Name>
+</uf>
+<uf>
+<Name>Futuna</Name>
+</uf>
+<uf>
+<Name>Horne, Iles de</Name>
+</uf>
+<uf>
+<Name>Ile Uvea (Wallis and Futuna)</Name>
+</uf>
+<uf>
+<Name>Iles de Horne</Name>
+</uf>
+<uf>
+<Name>Uvea (Wallis and Futuna)</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wau</uri>
+<Name authorized="yes">Washington (State)</Name>
+<Code>wau</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wj</uri>
+<Name authorized="yes">West Bank of the Jordan River</Name>
+<Code>wj</Code>
+<region>Asia</region>
+<uf>
+<Name>Jordan (Territory under Israeli occupation, 1967- )</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wvu</uri>
+<Name authorized="yes">West Virginia</Name>
+<Code>wvu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wea</uri>
+<Name authorized="yes">Western Australia</Name>
+<Code>wea</Code>
+<note>
+<text>Coded [at] (Australia) before Sept. 2005</text>
+</note>
+<region>Australasia</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ss</uri>
+<Name authorized="yes">Western Sahara </Name>
+<Code>ss</Code>
+<region>Africa</region>
+<uf>
+<Name>Río de Oro</Name>
+</uf>
+<uf>
+<Name>Saguia el Hamra</Name>
+</uf>
+<uf>
+<Name>Spanish Sahara</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wiu</uri>
+<Name authorized="yes">Wisconsin</Name>
+<Code>wiu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/wyu</uri>
+<Name authorized="yes">Wyoming</Name>
+<Code>wyu</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ye</uri>
+<Name authorized="yes">Yemen</Name>
+<Name>Yemen</Name>
+<Code>ye</Code>
+<region>Asia</region>
+<uf>
+<Name>Aden</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Aden (Protectorate)</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Arab Republic of Yemen</Name>
+</uf>
+<uf>
+<Name>Federation of South Arabia</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Kamaran</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Perim</Name>
+<note>
+<Name>Yemen (People's Democratic Republic</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Protectorate of South Arabia</Name>
+<note>
+<Name>Yemen (People's Democratic Republic</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Socotra</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>South Arabia</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Southern Yemen</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+<uf>
+<Name>Yemen (People's Democratic Republic)</Name>
+<note>
+<Name>Yemen (People's Democratic Republic)</Name>
+<Code status="obsolete">ys</Code>
+<date type="before">199101</date>
+</note>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/ykc</uri>
+<Name authorized="yes">Yukon Territory</Name>
+<Code>ykc</Code>
+<region>North America</region>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/za</uri>
+<Name authorized="yes">Zambia</Name>
+<Code>za</Code>
+<region>Africa</region>
+<uf>
+<Name>Northern Rhodesia</Name>
+</uf>
+</Country>
+<Country>
+<uri>info:lc/vocabulary/countries/rh</uri>
+<Name authorized="yes">Zimbabwe</Name>
+<Code>rh</Code>
+<region>Africa</region>
+<uf>
+<Name>Rhodesia</Name>
+</uf>
+<uf>
+<Name>Southern Rhodesia</Name>
+</uf>
+<uf>
+<Name>Zimbabwe Rhodesia</Name>
+</uf>
+</Country>
+</Countries>

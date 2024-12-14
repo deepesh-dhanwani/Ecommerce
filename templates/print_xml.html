@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include "header.html" %} 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countries</title>
+</head>
+<body>
+  
+    <h1 style="text-align: center  ">List of Countries</h1>
+    <table border="1"  style="margin-left: auto; margin-right: auto;"> 
+        <thead>
+            <tr>
+                <th>Country Name</th>
+                <th>Country Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for country in countries %}
+            <tr>
+                <td>{{ country.name }}</td>
+                <td>{{ country.code }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% include "footer.html"%}
+</body>
+</html>
